@@ -75,7 +75,7 @@ python3 PDF-Ripper.py --dev
 - Hit 'Start Ripping'
 - On Mac, a pop-up should ask you to allow the script to record your screen and use accessibility services ( to control keyboard/mouse). You may need to restart the program after giving it permission, so do a test run first before actually trying to rip a textbook.
 - The script will take control of your mouse and keyboard while it loops through the pages and takes screenshots for the PDF! Don't touch anything while it works its magic! 
-- Screenshots are combined into a PDF file at your chosen output location
+- Screenshots are combined into a PDF file at your chosen output location.
 
 ## To-do
 - [x] Create GUI from original PDF ripper script
